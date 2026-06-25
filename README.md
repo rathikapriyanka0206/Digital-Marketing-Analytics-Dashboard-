@@ -22,6 +22,7 @@ CTR by Device
 Conversion Rate by Segment
 ROI by Channel
 Revenue by Country
+
 Key Findings
 Social and Search channels generated the highest revenue.
 Mobile devices recorded the highest CTR.
@@ -42,6 +43,7 @@ Clicks by Device
 Audience Reach by Country
 Impressions by Segment
 Channel Distribution
+
 Key Findings
 Search channel generated the highest impressions.
 Mobile devices drove the most clicks.
@@ -60,10 +62,12 @@ Conversion by Channel
 Revenue by Segment
 Top 5 Campaigns by Revenue
 Revenue by Device
+
 Key Findings
 Social channel was the top-performing channel.
 Fashion segment generated the highest revenue.
 Mobile devices contributed the largest share of revenue.
 Top campaigns significantly outperformed others in revenue generation.
+
 Conclusion
 The dashboards provide a comprehensive view of campaign effectiveness, customer engagement, channel performance, and business growth metrics. The analysis helps marketers optimize budget allocation and improve campaign performance.
